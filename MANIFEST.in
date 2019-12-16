@@ -1,0 +1,6 @@
+recursive-include jupyterhub_jobmanager *.py
+
+include versioneer.py
+include setup.py
+include README.rst
+include LICENSE

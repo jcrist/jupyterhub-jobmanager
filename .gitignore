@@ -1,0 +1,11 @@
+build/
+dist/
+docs/build/
+.coverage
+htmlcov/
+*.pyc
+.eggs/
+*.egg-info
+.cache/
+.pytest_cache/
+.DS_Store
